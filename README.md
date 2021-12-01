@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://lemonshot.hashnode.dev/](https://lemonshot.hashnode.dev/)
 
-- 💬 Ask me about **Dart, Linux, python, Tkinter, pygame, Mobile Dev**
+- 💬 Ask me about **Python, C++, Dart, Linux, pygame, Mobile Dev**
 
 - 📫 How to reach me **hackanuj@protonmail.com**
 
