@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hackanuj" target="blank"><img src="https://img.shields.io/twitter/follow/hackanuj?logo=twitter&style=for-the-badge" alt="hackanuj" /></a> </p>
 
-- 🔭 I’m currently working on **Projects realted to Python and Flutter**
+- 🔭 I’m currently working on **Projects realted to Python**
 
 - 🌱 I’m currently learning **Web Devlopment**
 
@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles on [https://hackanuj.hashnode.dev/](https://hackanuj.hashnode.dev/)
 
-- 💬 Ask me about **python, Tkinter, pygame, Flutter**
+- 💬 Ask me about **python, pygame**
 
 - 📫 How to reach me **hackanuj@protonmail.com**
 
