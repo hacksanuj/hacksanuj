@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/hackanuj" target="blank"><img src="https://img.shields.io/twitter/follow/hackanuj?logo=twitter&style=for-the-badge" alt="hackanuj" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile development**
+- 🔭 I’m currently working on **Projects realted to Python and Flutter**
 
-- 🌱 I’m currently learning **Dart, Flutter**
+- 🌱 I’m currently learning **Web Devlopment**
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 🤝 I’m looking for help with **Mobile development**
+- 🤝 I’m looking for help with **Web Development**
 
 - 📝 I regularly write articles on [https://hackanuj.hashnode.dev/](https://hackanuj.hashnode.dev/)
 
-- 💬 Ask me about **python, Tkinter, pygame**
+- 💬 Ask me about **python, Tkinter, pygame, Flutter**
 
 - 📫 How to reach me **hackanuj@protonmail.com**
 
