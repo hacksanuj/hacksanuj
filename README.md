@@ -3,8 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
-<img align="right" alt="Coding" height="250" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
-<h3 align="center">A passionate <strong>Content Creator</strong> and <strong>Web Developer</strong> based in India</h3>
+<h3 align="center">A passionate <strong>Content Creator</strong> and <strong>Web Developer</strong> based in India</h3><img align="right" alt="Coding" height="250" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
 
 
 <!--
