@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Anuj Gupta</h1>
 <h3 align="center">A passionate <strong>Content Creator</strong> and <strong>Web Developer</strong> based in India</h3>
-<img align="right" alt="Coding" height="300" width="400" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
+<img align="right" alt="Coding" height="300" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
 
 
 <!--
