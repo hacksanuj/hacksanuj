@@ -1,6 +1,6 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px" />, I'm Anuj</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj</h1>
 <h3 align="center">A passionate <strong>Content Creator</strong> and <strong>Web Developer</strong> based in India</h3>
 <img align="right" alt="Coding" height="300" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
 
