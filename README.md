@@ -29,7 +29,6 @@
 
 <br />
 <h3 align="center"><strong>"Trying to be better than the yesterday me"</strong></h3>
-<br />
 <h2 align="center"><strong>Connect with me:</strong></h2>
 <p align="center">
 <a href="https://twitter.com/hackanuj" target="blank"><img align="center" src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter icon" height="40" width="40" /></a>
