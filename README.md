@@ -11,9 +11,6 @@
 
 -->
 
-
-
-
 <br />
 
 
@@ -31,9 +28,9 @@
 <br />
 
 <h3 align="center"><strong>"Trying to be better than the yesterday me"</strong></h3>
+<br />
 
-<br />
-<br />
+---
 
 <h2 align="center"><strong>Connect with me:</strong></h2>
 <p align="center">
