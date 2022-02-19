@@ -26,7 +26,6 @@
 - 📫 How to reach me: **imanuj@protonmail.com**
 
 - ⚡ Fun fact: I'm obsessed with ***manga*** and ***cats***
-
 <br />
 <h3 align="center"><strong>"Trying to be better than the yesterday me"</strong></h3>
 <h2 align="center"><strong>Connect with me:</strong></h2>
