@@ -36,24 +36,31 @@
 <div align="center">
 <a href="https://twitter.com/hackanuj" target="blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter icon" height="40" width="40" />
-  </a>
+  </a>&ensp;
+  
 <a href="https://www.linkedin.com/in/hackanuj/" target="blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/linkedin.png" alt="twitter icon" height="40" width="40" />
-  </a>
+  </a>&ensp;
+  
 <a href="https://www.polywork.com/hackanuj" target="blank">
-  <img align="center" src="https://res.cloudinary.com/exom/image/upload/v1645256228/icons/polywork-removebg-preview_tttifn.png" alt ="polywork icon" height="35" width="33" /></a>
+  <img align="center" src="https://res.cloudinary.com/exom/image/upload/v1645256228/icons/polywork-removebg-preview_tttifn.png" alt ="polywork icon" height="35" width="33" /></a>&ensp;
+  
 <a href="https://www.youtube.com/channel/UCVz9w1lgG82yg-NwVxWCQlg" target="blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/youtube-squared.png" alt="youtube icon" height="40" width="40" />
-  </a>
+  </a>&ensp;
+  
 <a href="https://www.youtube.com/channel/UCVz9w1lgG82yg-NwVxWCQlg" target="blank">
   <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="dev icon" height="32" width="32" />
-  </a>
+  </a>&ensp;
+  
 <a href="https://discord.gg/https://discord.gg/BKsjdBVW" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BKsjdBVW" height="60" width="40" />
-  </a>
+  </a>&ensp;
+  
 <a href="https://www.imanuj.us" target="blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/facebook.png" alt="facebook icon" height="40" width="40" />
-  </a>
+  </a>&ensp;
+  
 </div>
 
 <h2 align="center"><strong>Programming Languages:</strong></h2>
