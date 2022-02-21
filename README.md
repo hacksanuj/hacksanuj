@@ -85,6 +85,9 @@
 </div>
 
 <h2 align="center"><strong>Frameworks / Libraries / Database:</strong></h2>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+  </a>&ensp;
 <div align="center">
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
