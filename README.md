@@ -119,10 +119,10 @@
 
 <h2 align="center">📉<strong>Quick Stats:</strong></h2>
 
-<p align="center">
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacksanuj&theme=jolly" alt="hacksanuj" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme=jolly&show_icons=true" alt="hacksanuj" /></p>
-</p>
+<div align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacksanuj&theme=jolly" alt="hacksanuj" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme=jolly&show_icons=true" alt="hacksanuj" /></p>
+</div>
 
                                                                                                       
 <!-- <p align="center">
