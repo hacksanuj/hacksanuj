@@ -120,9 +120,9 @@
 <h2 align="center">📉<strong>Quick Stats:</strong></h2>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thatbeautifuldream&theme=jolly&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thatbeautifuldream&theme=jolly&show_icons=true" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=thatbeautifuldream&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme=jolly&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hacksanuj&theme=jolly&show_icons=true" />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=hacksanuj&theme=default" />
 </div>
 
                                                                                                       
