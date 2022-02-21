@@ -73,13 +73,16 @@
 <h2 align="center">📉<strong>Quick Stats:</strong></h2>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacksanuj&theme=jolly" alt="hacksanuj" /></p>
-
-<p align="center">
-  <!--<a href="https://github.com/hacksanuj/hacksanuj">
+<p align="center"><a href="https://github.com/hacksanuj/hacksanuj">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme="jolly" />
+</p>
+                                                                                                      
+<!-- <p align="center">
+<a href="https://github.com/hacksanuj/hacksanuj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacksanuj&hide=java,html,tex&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=3" alt="stats"/>
-</a> -->
+</a> 
 <a href="https://github.com/hacksanuj/hacksanuj">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />
-  </a></p>
+  </a></p> -->
   
   [![Anuj's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=hacksanuj&&theme=default)](https://github.com/hacksanuj)
