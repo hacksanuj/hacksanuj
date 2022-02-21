@@ -68,26 +68,20 @@
 <a href="https://www.javascript.com/" target="blank">
   <img align="center" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascript icon" height="45" width="45" />
   </a>&ensp;
-  
 <a href="https://www.python.org/" target="blank">
   <img align="center" src="https://img.icons8.com/dusk/50/000000/python.png" alt="python icon" height="40" width="40" />
   </a>&ensp;
-  
 <a href="https://html.com/" target="blank">
   <img align="center" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="html icon" height="43" width="42" />
   </a>&ensp;
-  
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/css3.png" alt="css icon" height="43" width="42" />
   </a>&ensp;
-  
 <a href="https://isocpp.org/" target="blank">
   <img align="center" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="c++ icon" height="42" width="42" />
   </a>&ensp;
-  
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank" rel="noreferrer">
   <img align="center" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c icon" height="42" width="42" />
   </a>&ensp;
-  
 </div>
 
 <h2 align="center"><strong>Frameworks / Libraries / Database:</strong></h2>
