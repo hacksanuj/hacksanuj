@@ -74,7 +74,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacksanuj&theme=jolly" alt="hacksanuj" /></p>
 <p align="center"><a href="https://github.com/hacksanuj/hacksanuj">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme="jolly" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme=jollu&show_icons=true" />
 </p>
                                                                                                       
 <!-- <p align="center">
