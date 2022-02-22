@@ -124,7 +124,7 @@
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme=jolly&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hacksanuj&theme=jolly&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hacksanuj&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" />
   <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=hacksanuj&theme=default" />
 </div>
 
