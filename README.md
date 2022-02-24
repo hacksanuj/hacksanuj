@@ -125,16 +125,15 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme=jolly&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hacksanuj&theme=jolly&date_format=M%20j%5B%2C%20Y%5D" />
-  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=hacksanuj&theme=default />
+  <img width="97%" src="https://activity-graph.herokuapp.com/graph?username=hacksanuj&theme=default"/>
 </div>
 
                                                                                                       
-<!-- <p align="center">
+<!--<p align="center">
 <a href="https://github.com/hacksanuj/hacksanuj">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacksanuj&hide=java,html,tex&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&langs_count=3" alt="stats"/>
 </a> 
 <a href="https://github.com/hacksanuj/hacksanuj">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />
-  </a></p> -->
-  
+  </a></p>-->
   
