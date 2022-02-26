@@ -86,7 +86,7 @@
 
 <h2 align="center"><strong>Frameworks / Libraries / Database:</strong></h2>
 <div align="center">
-<!--<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
   </a>&ensp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -94,7 +94,7 @@
   </a>&ensp;
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>&ensp; -->
+  </a>&ensp;
 <!--<a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer">
   <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/>
   </a>&ensp; -->
