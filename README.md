@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj</h1>
 <h3 align="center">A passionate <strong>Content Creator</strong> and <strong>Web Developer</strong> based in India</h3>
-<img align="right" alt="Coding" height="250" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
-
+<!-- <img align="right" alt="Coding" height="250" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif"> -->
+<img align="right" alt="Coding" height="250" src="https://i.pinimg.com/originals/07/a8/a0/07a8a0f9aab62e74ba7b3ce0bcced61d.gif">
 
 <!--
 
