@@ -122,7 +122,7 @@
 <h2 align="center">📉<strong>Quick Stats:</strong></h2>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&theme=jolly&show_icons=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&show_icons=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hacksanuj&theme=jolly&date_format=j%20M%5B%20Y%5D" />
 </div>
 
