@@ -84,7 +84,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>&ensp;
 </div>
-<h2 align="center">⚒️<strong> Other Tools: </strong>⚒️</h2>
+
+## **⚒️Other Tools ➜**
 <div align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/nolan/96/visual-studio.png" alt="linux" width="40" height="40"/>
@@ -103,7 +104,6 @@
   </a>&ensp;
 </div>
 
----
 ## **📉Quick Stats ➜**
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&show_icons=true&theme=jolly" />
