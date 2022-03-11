@@ -1,9 +1,6 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj</h1>
-
 <!-- Social Media ICons -->
-
 <h2 align="center">🔗<strong> Connect with me: </strong>🔗</h2>
 <div align="center">
 <a href="https://twitter.com/hackanuj" target="blank">
@@ -29,13 +26,8 @@
 </div>
 
 ---
-
-<!-- Info -->
-
 <h3 align="center">A passionate <strong>Content Creator</strong> and <strong>Web Developer</strong> based in India</h3>
-
 <img align="right" alt="Coding" height="250" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
-
 <br />
 
 - 🌱 I’m currently learning and working on: **_Web Development_**
@@ -49,16 +41,10 @@
 - ⚡ Fun fact: I'm obsessed with **_manga_** and **_cats_**
 
 <br />
-<br />
-
 <h3 align="center"><strong>"Trying to be better than the yesterday me"</strong></h3>
-
 <br />
 
 ---
-
-<!-- Programming Language Icons -->
-
 <h2 align="center">💻<strong> Programming Languages: </strong>💻</h2>
 <div align="center">
 <a href="https://www.javascript.com/" target="blank">
@@ -79,9 +65,6 @@
   <img align="center" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c icon" height="42" width="42" />
   </a>&ensp;
 </div>
-
-<!-- Framework Icons -->
-
 <h2 align="center">📚<strong> Frameworks / Libraries / Database: </strong>📚</h2>
 <div align="center">
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
@@ -97,9 +80,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>&ensp;
 </div>
-
-<!-- Tools Icons -->
-
 <h2 align="center">⚒️<strong> Other Tools: </strong>⚒️</h2>
 <div align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
@@ -119,10 +99,8 @@
   </a>&ensp;
 </div>
 
-## <!-- Stats -->
-
+---
 <h2 align="center">📉<strong> Quick Stats: </strong>📉</h2>
-
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&show_icons=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hacksanuj&theme=jolly&date_format=j%20M%5B%20Y%5D" />
