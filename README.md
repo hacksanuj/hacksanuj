@@ -43,11 +43,9 @@
 - ⚡ Fun fact: I'm obsessed with **_manga_** and **_cats_**
 
 <br />
-<h3 align="center"><strong>"Trying to be better than the yesterday me"</strong></h3>
-<br />
+<h3 align="center"><strong>"Trying to be better than the yesterday's me"</strong></h3>
 
 ---
-
 ## **💻Programming Languages ➜**
 <div align="center">
 <a href="https://www.javascript.com/" target="blank">
