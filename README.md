@@ -1,7 +1,9 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj</h1>
 <!-- Social Media ICons -->
-<h2 align="center">🔗<strong> Connect with me: </strong>🔗</h2>
+
+##  **🔗Connect with me ➜**
 <div align="center">
 <a href="https://twitter.com/hackanuj" target="blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter icon" height="40" width="40" />
@@ -45,7 +47,8 @@
 <br />
 
 ---
-<h2 align="center">💻<strong> Programming Languages: </strong>💻</h2>
+
+## **💻Programming Languages ➜**
 <div align="center">
 <a href="https://www.javascript.com/" target="blank">
   <img align="center" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascript icon" height="45" width="45" />
@@ -65,7 +68,8 @@
   <img align="center" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c icon" height="42" width="42" />
   </a>&ensp;
 </div>
-<h2 align="center">📚<strong> Frameworks / Libraries / Database: </strong>📚</h2>
+
+## **📚Frameworks / Libraries / Database ➜**
 <div align="center">
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
@@ -100,7 +104,7 @@
 </div>
 
 ---
-<h2 align="center">📉<strong> Quick Stats: </strong>📉</h2>
+## **📉Quick Stats ➜**
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&show_icons=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hacksanuj&theme=jolly&date_format=j%20M%5B%20Y%5D" />
