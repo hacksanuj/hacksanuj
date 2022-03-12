@@ -3,7 +3,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Anuj</h1>
 <!-- Social Media ICons -->
 
-##  **🔗Connect with me ➜**
+## **🔗Connect with me ➜**
+
 <div align="center">
 <a href="https://twitter.com/hackanuj" target="blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter icon" height="40" width="40" />
@@ -28,6 +29,7 @@
 </div>
 
 ---
+
 <h3 align="center">A passionate <strong>Content Creator</strong> and <strong>Web Developer</strong> based in India</h3>
 <img align="right" alt="Coding" height="250" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
 <br />
@@ -46,7 +48,9 @@
 <h3 align="center"><strong>"Trying to be better than the yesterday's me"</strong></h3>
 
 ---
+
 ## **💻Programming Languages ➜**
+
 <div align="center">
 <a href="https://www.javascript.com/" target="blank">
   <img align="center" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascript icon" height="45" width="45" />
@@ -65,15 +69,13 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank" rel="noreferrer">
   <img align="center" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c icon" height="42" width="42" />
   </a>&ensp;
-<<<<<<< HEAD
-=======
 <a href="https://www.markdownguide.org/" target="blank" rel="noreferrer">
-  <img src="https://img.icons8.com/stickers/50/000000/markdown.png" alt="markdown" width="42" height="42"/>
+  <img align="center" src="https://img.icons8.com/nolan/64/markdown.png" alt="c icon" height="48" width="45" />
   </a>&ensp;
->>>>>>> de86f4e7102c605f73a1f8bc9e1876b15dd2db3e
 </div>
 
 ## **📚Frameworks / Libraries / Database ➜**
+
 <div align="center">
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/96/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
@@ -90,6 +92,7 @@
 </div>
 
 ## **⚒️Other Tools ➜**
+
 <div align="center">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/nolan/96/visual-studio.png" alt="linux" width="40" height="40"/>
@@ -103,12 +106,11 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>
   </a>&ensp;
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/stickers/50/000000/markdown.png" alt="markdown" width="40" height="40"/>
-  </a>&ensp;
+  
 </div>
 
 ## **📉Quick Stats ➜**
+
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&show_icons=true&theme=jolly" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hacksanuj&theme=jolly&date_format=j%20M%5B%20Y%5D" />
