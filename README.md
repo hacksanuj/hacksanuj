@@ -38,7 +38,7 @@
 
 - 🥅 2022 Goals: Get **_job_** in tech and **_learn Web3_**
 
-- 📫 How to reach me: **imanuj@protonmail.com**
+- 📫 How to reach me: **hackanuj@protonmail.com**
 
 - ⚡ Fun fact: I'm obsessed with **_manga_** and **_cats_**
 
