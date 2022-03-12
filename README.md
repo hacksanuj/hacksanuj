@@ -65,6 +65,12 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank" rel="noreferrer">
   <img align="center" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c icon" height="42" width="42" />
   </a>&ensp;
+<<<<<<< HEAD
+=======
+<a href="https://www.markdownguide.org/" target="blank" rel="noreferrer">
+  <img src="https://img.icons8.com/stickers/50/000000/markdown.png" alt="markdown" width="42" height="42"/>
+  </a>&ensp;
+>>>>>>> de86f4e7102c605f73a1f8bc9e1876b15dd2db3e
 </div>
 
 ## **📚Frameworks / Libraries / Database ➜**
