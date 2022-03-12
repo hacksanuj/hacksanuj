@@ -65,6 +65,9 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank" rel="noreferrer">
   <img align="center" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c icon" height="42" width="42" />
   </a>&ensp;
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/stickers/50/000000/markdown.png" alt="markdown" width="42" height="42"/>
+  </a>&ensp;
 </div>
 
 ## **📚Frameworks / Libraries / Database ➜**
@@ -96,9 +99,6 @@
   </a>&ensp;
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>
-  </a>&ensp;
-  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/stickers/50/000000/markdown.png" alt="linux" width="40" height="40"/>
   </a>&ensp;
 </div>
 
