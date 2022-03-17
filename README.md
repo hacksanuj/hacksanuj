@@ -6,24 +6,24 @@
 ## **🔗Connect with me ➜**
 
 <div align="center">
-<a href="https://twitter.com/hackanuj" target="blank">
+<a href="https://twitter.com/hackanuj" target="_blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/twitter.png" alt="twitter icon" height="40" width="40" />
   </a>&ensp;
-<a href="https://www.linkedin.com/in/hackanuj/" target="blank">
+<a href="https://www.linkedin.com/in/hackanuj/" target="_blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/linkedin.png" alt="twitter icon" height="40" width="40" />
   </a>&ensp;
-<a href="https://www.polywork.com/hackanuj" target="blank">
+<a href="https://www.polywork.com/hackanuj" target="_blank">
   <img align="center" src="https://res.cloudinary.com/exom/image/upload/v1645256228/icons/polywork-removebg-preview_tttifn.png" alt ="polywork icon" height="35" width="33" /></a>&ensp;
-<a href="https://www.youtube.com/channel/UCVz9w1lgG82yg-NwVxWCQlg" target="blank">
+<a href="https://www.youtube.com/channel/UCVz9w1lgG82yg-NwVxWCQlg" target="_blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/youtube-squared.png" alt="youtube icon" height="40" width="40" />
   </a>&ensp;
-<a href="https://www.youtube.com/channel/UCVz9w1lgG82yg-NwVxWCQlg" target="blank">
+<a href="https://www.youtube.com/channel/UCVz9w1lgG82yg-NwVxWCQlg" target="_blank">
   <img align="center" src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.png" alt="dev icon" height="32" width="32" />
   </a>&ensp;
-<a href="https://discord.gg/https://discord.gg/BKsjdBVW" target="blank">
+<a href="https://discord.gg/https://discord.gg/BKsjdBVW" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/BKsjdBVW" height="60" width="40" />
   </a>&ensp;
-<a href="https://www.imanuj.us" target="blank">
+<a href="https://www.imanuj.us" target="_blank">
   <img align="center" src="https://img.icons8.com/stickers/100/000000/facebook.png" alt="facebook icon" height="40" width="40" />
   </a>&ensp;
 </div>
@@ -52,24 +52,24 @@
 ## **💻Programming Languages ➜**
 
 <div align="center">
-<a href="https://www.javascript.com/" target="blank">
+<a href="https://www.javascript.com/" target="_blank">
   <img align="center" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascript icon" height="45" width="45" />
   </a>&ensp;
-<a href="https://www.python.org/" target="blank">
+<a href="https://www.python.org/" target="_blank">
   <img align="center" src="https://img.icons8.com/dusk/50/000000/python.png" alt="python icon" height="40" width="40" />
   </a>&ensp;
-<a href="https://html.com/" target="blank">
+<a href="https://html.com/" target="_blank">
   <img align="center" src="https://img.icons8.com/color/50/000000/html-5--v1.png" alt="html icon" height="43" width="42" />
   </a>&ensp;
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank"><img align="center" src="https://img.icons8.com/color/50/000000/css3.png" alt="css icon" height="43" width="42" />
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="center" src="https://img.icons8.com/color/50/000000/css3.png" alt="css icon" height="43" width="42" />
   </a>&ensp;
-<a href="https://isocpp.org/" target="blank">
+<a href="https://isocpp.org/" target="_blank">
   <img align="center" src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png" alt="c++ icon" height="42" width="42" />
   </a>&ensp;
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="blank" rel="noreferrer">
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c icon" height="42" width="42" />
   </a>&ensp;
-<a href="https://www.markdownguide.org/" target="blank" rel="noreferrer">
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.icons8.com/nolan/64/markdown.png" alt="c icon" height="48" width="45" />
   </a>&ensp;
 </div>
