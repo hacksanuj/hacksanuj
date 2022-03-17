@@ -106,7 +106,9 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>
   </a>&ensp;
-  
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/dusk/128/000000/canva-app.png" alt="canva" width="40" height="40"/>
+  </a>&ensp;
 </div>
 
 ## **📉Quick Stats ➜**
