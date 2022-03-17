@@ -28,7 +28,7 @@
   </a>&ensp;
 </div>
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 <h3 align="center">A passionate <strong>Content Creator</strong> and <strong>Web Developer</strong> based in India</h3>
 <img align="right" alt="Coding" height="250" src="https://c.tenor.com/tHGomflMSuIAAAAd/cat-computer.gif">
@@ -47,7 +47,7 @@
 <br />
 <h3 align="center"><strong>"Trying to be better than the yesterday's me"</strong></h3>
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ## **💻Programming Languages ➜**
 
