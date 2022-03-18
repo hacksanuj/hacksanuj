@@ -69,7 +69,7 @@
 ## **📑Tech Stack ➜**
 <div align="center">
 
-| Programming languages | Frameworks-Libraries-Databases |  Tools |
+| **Programming languages** | **Frameworks-Libraries-Databases** |  **Tools** |
 | :---:                 |    :----:                      |  :---: |
 | [![My Skills](https://skillicons.dev/icons?i=js,html,css,python&theme=light)](https://skillicons.dev)<br/>[![My Skills](https://skillicons.dev/icons?i=c,cpp,md&theme=light)](https://skillicons.dev)                | [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,mysql&theme=light)](https://skillicons.dev)                          | [![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,linux&theme=light)](https://skillicons.dev)   |
 
