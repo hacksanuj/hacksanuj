@@ -36,7 +36,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-## **💻Programming Languages ➜**
+<!-- ## **💻Programming Languages ➜**
 
 <div align="center">
   <img align="center" src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="Javascript icon" height="45" width="45" />&ensp;
@@ -65,6 +65,15 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="38" height="38"/>&ensp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="37" height="37"/>&ensp;
   <img src="https://img.icons8.com/dusk/128/000000/canva-app.png" alt="canva" width="40" height="40"/>&ensp;
+</div> -->
+## **📑Tech Stack ➜**
+<div align="center">
+
+| Programming languages | Frameworks-Libraries-Databases |  Tools |
+| :---:                 |    :----:                      |  :---: |
+| [![My Skills](https://skillicons.dev/icons?i=js,html,css,python&theme=light)](https://skillicons.dev)<br/>[![My Skills](https://skillicons.dev/icons?i=c,cpp,md&theme=light)](https://skillicons.dev)                | [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,sass,mysql&theme=light)](https://skillicons.dev)                          | [![My Skills](https://skillicons.dev/icons?i=figma,git,vscode,linux&theme=light)](https://skillicons.dev)   |
+
+
 </div>
 
 ## **📉Quick Stats ➜**
@@ -75,3 +84,4 @@
 </div>
 
 [![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=hacksanuj&bg_color=ffcfe9&color=000000&line=f26ed5&point=fdf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
