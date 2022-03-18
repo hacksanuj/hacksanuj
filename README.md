@@ -70,8 +70,8 @@
 ## **📉Quick Stats ➜**
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&show_icons=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hacksanuj&theme=jolly&date_format=j%20M%5B%20Y%5D" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hacksanuj&show_icons=true&theme=jolly" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hacksanuj&theme=jolly&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 [![Anuj's github activity graph](https://activity-graph.herokuapp.com/graph?username=hacksanuj&bg_color=ffcfe9&color=000000&line=f26ed5&point=fdf7f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
