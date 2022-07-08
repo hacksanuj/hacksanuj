@@ -1,6 +1,8 @@
 ![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">, I'm Anuj</h1>
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">, I'm Anuj</h1> -->
+
+<h1 align="center">Hi, I'm Anuj</h1>
 <!-- Social Media ICons -->
 
 ## **🔗Connect with me ➜**
