@@ -2,7 +2,7 @@
 
 <!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="1px">, I'm Anuj</h1> -->
 
-<h1 align="center">Hi, I'm Anuj</h1>
+<h1 align="center">Hi,👋🏻 I'm Anuj</h1>
 <!-- Social Media ICons -->
 
 ## **🔗Connect with me ➜**
