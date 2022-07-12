@@ -27,7 +27,7 @@
 
 - 👯 I’m looking to collaborate on: **_Open-source Projects_**
 
-- 🥅 2022 Goals: Get **_job_** in tech and get in shape
+- 🥅 2022 Goals: Get **_job_** in tech and Learn new things
 
 - 📫 How to reach me: **hackanuj@protonmail.com**
 
